@@ -1,0 +1,22 @@
+1. jadi ini kami tugasnya buat sistem laundry di del yang mana dari yang saya tahu ini dari mahasiswa membuat list pakaian mereka dan nanti dimasukkan ke dalam laundry bag yang disediakan. lalu pihak laundry akan cek satu persatu list dan pakaiannya apakah ssuai atau tidaknya, lalu di laundry, setelah di laundry dibuat kedalam aundrybag yang isinya sesuai dengan list yang ada. tolong buat code programnya, cara compile ada di dalam gambar. list aundry berisi, nama, nama asrama, pakaian, jumlah, keterangan, lalu ada catatan tambahan dari mahasiswa/ahasiswi dan pihak laundry (opsional)
+2. buat code program untuk sistemnya dari yang sudah saya berikan
+3. buat code program untuk sistemnya dari yang sudah saya berikan
+4. kerjakan tugasnya, yaitu Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del.
+5. jadi kami ada tugas membuat sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del.
+sistem laundry biasanya seperti ini jadi ini  
+1.dari mahasiswa membuat list pakaian mereka dan nanti dimasukkan ke dalam laundry bag yang disediakan. list laundry berisi, nama, nama asrama, pakaian, jumlah, keterangan, lalu ada catatan tambahan dari mahasiswa/ahasiswi dan pihak laundry (opsional)
+2.lalu pihak laundry akan cek satu persatu list dan pakaiannya apakah ssuai atau tidaknya, lalu di laundry, 
+3. setelah di laundry, pakaian dibuat kedalam aundrybag yang isinya sesuai dengan list yang ada. 
+
+tolong buat code programnya, cara compile ada di dalam gambar. saya akan mengerjakannya di Driver3.java
+
+6. aku butuh codenya dulu, baru di compile.
+7. sekarang mana code untuk buat sistemnya???
+8. jadi kami ada tugas membuat sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del.
+sistem laundry biasanya seperti ini jadi ini  
+1.dari mahasiswa membuat list pakaian mereka dan nanti dimasukkan ke dalam laundry bag yang disediakan. list laundry berisi, nama, nama asrama, pakaian, jumlah, keterangan, lalu ada catatan tambahan dari mahasiswa/ahasiswi dan pihak laundry (opsional)
+2.lalu pihak laundry akan cek satu persatu list dan pakaiannya apakah ssuai atau tidaknya, lalu di laundry, 
+3. setelah di laundry, pakaian dibuat kedalam aundrybag yang isinya sesuai dengan list yang ada. 
+
+tolong buat code programnya dalam bahasa java
+buat codenya agar ada didalam Driver3.java ini
