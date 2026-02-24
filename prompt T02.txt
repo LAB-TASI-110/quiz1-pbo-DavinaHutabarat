@@ -1,0 +1,6 @@
+1. tolong kerjakan code programnya, nanti say buat dalam file Driver2.java seperti pada gambar
+2. cara compilenya gimana
+3. kenapa jadi gini hasilnya??
+4. kenapa jadi 0?? kan tugasnya membuat program yang mampu menentukan total nilai hanya untuk kelompok yang diminta.
+5. kok bisa 220?? kok ga 210?
+6. coba jelaskan kegunaan tiap codenya, agar aku paham
