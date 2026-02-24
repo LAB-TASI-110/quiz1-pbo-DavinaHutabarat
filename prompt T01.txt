@@ -1,0 +1,10 @@
+1. kerjakan dan buat codenya untuk menghasilkan output yang diminta
+2. tolong buat codenya dalam bahasa java
+3. cara compile programnya gimana??
+4. aku buat nama filenya T01.java
+5. ini gimana?? aku ubah nama file jadi KasirWarungMakRoby.java
+6. buat ulang codenya, karena aku bakal buat ke dalam driver.java ini
+7. jadi code ini dihapus??
+8. kenapa jadi beda gini porsinya??
+9. buat ulang codenya agar sesuai format input dan outputnya
+10. input porsinya kenapa gaada tanda kurung siku??
